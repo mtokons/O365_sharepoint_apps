@@ -1,0 +1,10 @@
+C:\Users\Heiko\Source\Repos\bordaloc\bordaloc\obj\Debug\bordaloc.csprojAssemblyReference.cache
+C:\Users\Heiko\Source\Repos\bordaloc\bordaloc\obj\Debug\bordaloc.csproj.CoreCompileInputs.cache
+C:\Users\Heiko\Source\Repos\bordaloc\bordaloc\bin\Debug\bordaloc.exe.config
+C:\Users\Heiko\Source\Repos\bordaloc\bordaloc\bin\Debug\bordaloc.exe
+C:\Users\Heiko\Source\Repos\bordaloc\bordaloc\bin\Debug\bordaloc.pdb
+C:\Users\Heiko\Source\Repos\bordaloc\bordaloc\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\Heiko\Source\Repos\bordaloc\bordaloc\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\Heiko\Source\Repos\bordaloc\bordaloc\obj\Debug\bordaloc.csproj.CopyComplete
+C:\Users\Heiko\Source\Repos\bordaloc\bordaloc\obj\Debug\bordaloc.exe
+C:\Users\Heiko\Source\Repos\bordaloc\bordaloc\obj\Debug\bordaloc.pdb
