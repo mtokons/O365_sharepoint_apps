@@ -1,0 +1,20 @@
+1.
+
+Install-Module SharePointPnPPowerShellOnline
+
+Connect-PnPOnline –Url "https://bordahq.sharepoint.com"
+
+Set-PnPPropertyBagValue -Key "BING_MAPS_KEY" -Value "AjSyOhKZ3wJzqrbCJyma41p8wKncW6gSl3aQii-Joj5vvMdjnGlcBuE8BZZSe5RY"
+
+
+    If you receive an error regarding NoScript being enabled, you must disable it in the site. Then rerun step 3.
+
+Set-SPOsite <SiteURL> -DenyAddAndCustomizePages 0
+
+2.
+Connect-PnPOnline -url "https://bordahq.sharepoint.com"
+
+$list = Get-PnPList -Identity "Location list"
+
+Add-PnPField -List $list -Type GeoLocation -DisplayName "GeoLocationField" -InternalName "GeoLoc
+ationField" -AddToDefaultView -Required
