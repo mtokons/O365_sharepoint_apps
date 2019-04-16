@@ -2,6 +2,8 @@
 
 https://www.microsoft.com/en-US/download/details.aspx?id=35588
 
+Connect-SPOService -Url https://bordahq.sharepoint.com
+
 Install-Module SharePointPnPPowerShellOnline
 
 Connect-PnPOnline –Url "https://bordahq.sharepoint.com"
