@@ -1,8 +1,10 @@
 1.
 
+https://www.microsoft.com/en-US/download/details.aspx?id=35588
+
 Install-Module SharePointPnPPowerShellOnline
 
-Connect-PnPOnline –Url "https://bordahq.sharepoint.com"
+Connect-PnPOnline â€“Url "https://bordahq.sharepoint.com"
 
 Set-PnPPropertyBagValue -Key "BING_MAPS_KEY" -Value "AjSyOhKZ3wJzqrbCJyma41p8wKncW6gSl3aQii-Joj5vvMdjnGlcBuE8BZZSe5RY"
 
